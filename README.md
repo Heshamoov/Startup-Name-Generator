@@ -14,6 +14,8 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://user-images.githubusercontent.com/40559010/200176575-837c3920-09b9-4d9b-939f-7bdc7bf6ebc1.png)
 
 
-## The tapped list items will be saved in a new page which can be accessed by cliking on the menu icon at the top right of the screen:
+## Favourites Names
+
+The tapped list items will be saved in a new page which can be accessed by cliking on the menu icon at the top right of the screen:
 
 ![image](https://user-images.githubusercontent.com/40559010/200176728-29394c8c-b4bc-4723-9927-f4dc47f5147d.png)
